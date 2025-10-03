@@ -1,4 +1,4 @@
-package org.example.project
+package org.dara.project
 
 class Greeting {
     private val platform = getPlatform()

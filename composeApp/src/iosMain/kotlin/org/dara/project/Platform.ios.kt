@@ -1,4 +1,4 @@
-package org.example.project
+package org.dara.project
 
 import platform.UIKit.UIDevice
 
